@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Notification send email</string>
+
+    <!-- Preference -->
+    <string name="description_application">This app comes in two smart phone notification and SMS / MMS / Email to a call when it came to pass information. In the next step, you run as messengers accessibility to all e-mail sent to the Notification. Nowhere to send the information will not be saved.</string>
+    <string name="title_nickname">Nickname</string>
+    <string name="title_email">Gmail</string>
+    <string name="title_password">Password</string>
+    <string name="hint_email">Gmail Address</string>
+    <string name="hint_password">Gmail Password</string>
+    <string name="hint_password_re">Re-Password</string>
+    <string name="hint_phone_name">The nickname of the smartphone</string>
+    <string name="email_empty">please fill in the address field.</string>
+    <string name="nickname_empty">Please fill in the smartphone nikname.</string>
+    <string name="password_empty">Please fill in the password field.</string>
+    <string name="waring_not_account">No information yet on the email account. Please enter your account information.</string>
+    <string name="password_diffrent">Two passwords are different. Please check.</string>
+    <string name="description_preference">* App in the account information is stored will not be used for any other purpose. You may rest assured.</string>
+    <string name="okay">Confirm</string>
+
+    <!-- Main -->
+    <string name="on">Real-time sending of Email</string>
+    <string name="off">Email not send real-time</string>
+    <string name="btn_noti_on">Notification On</string>
+    <string name="btn_noti_off">Notification Off</string>
+    <string name="made_by">By shakeJ (shakejj@gmail.com)\n* mnworld.co.kr</string>
+
+    <!-- Setting -->
+    <string name="accessibility_msg">Notification will be activated when you turn on accessibility.</string>
+    <string name="accessibility_setting_msg">To access the Email Notification must be turned on.</string>
+    <string name="accessibility_setting_msg_off">Notification by e-mail access should be turned off if you do not want to send.</string>
+    <string name="accessibility_setting_popup_cancel">Cancel</string>
+    <string name="accessibility_setting_popup_ok">Go go modifying</string>
+
+</resources>
